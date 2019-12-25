@@ -11,10 +11,16 @@ Counting Sheep
 7
 8
 9
-
-	new array = array TenTen[] {
+class TestArray {
 	
-		( 1010, 1, 1010, 2,)
-			 System.out.println(array TenTen[5],TenTen[1],TenTen[9])
-			 
+	public static void (string[] args) {
+	
+	 int GitArray[];
+
+		GitArray[] = new int[10];
+	
+		GitArray[] = ( 1010, 1, 1010, 2, 1010, 3, 1010, 4, 1010, 5) 
+			 System.out.println(Gitarray[5],TenTen[1],TenTen[9]);
+	
 	}
+}
